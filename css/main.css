@@ -96,7 +96,8 @@ margin-top: 10px;
   max-width: 100%;
 }
 
-/*  background-image: url('../img/hero.jpg');
+.hero {
+  background-image: url('../img/hero.jpg');
   height:400px;
   background-size: cover;
   background-position: :center center;
@@ -121,8 +122,6 @@ margin-top: 10px;
   font-size: 21px;
   margin: 0 0 10px;
 }
-*/
-
 
 .banner {
   margin: 55px 15px
