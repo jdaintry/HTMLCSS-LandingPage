@@ -91,12 +91,12 @@ margin-top: 10px;
 
 .profile-pic{width: 60px; height: 60px;}
 
-.profile-pic img {
+.profile-pic img{
   border-radius: 100px;
   max-width: 100%;
 }
 
-.hero {
+.hero{
   background-image: url('../img/hero.jpg');
   height:400px;
   background-size: cover;
