@@ -110,3 +110,13 @@ padding: 0 0 4px;
 footer a:hover {
   text-decoration: underline;
 }
+.social ul li{
+  display: inline-block;
+}
+.social ul li a{
+  display: block;
+  width: 23px;
+  height: 23px;
+  background-size: 23px 23px;
+  background-position: center;
+}
