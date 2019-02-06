@@ -143,6 +143,6 @@ footer a:hover {
 .newsletter button {
   width: 150px;
   min-width: auto;
-  text-transform: 1px;
+  text-transform: uppercase;
   letter-spacing: 1px;
   }
